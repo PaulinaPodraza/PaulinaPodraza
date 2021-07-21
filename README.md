@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaulinaPodraza
 - 👀 I’m interested in programming, cooking and traveling
-- 🌱 I’m currently learning programming in HTML and CSS
+- 🌱 I’m currently learning programming in HTML, SCSS, JS
 - 💞️ I’m looking to collaborate on the frontend
 - 📫 How to reach me paulina.podraza92@gmail.com
 
