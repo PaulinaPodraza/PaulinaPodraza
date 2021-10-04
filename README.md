@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <!---[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 --->
 - Extra skills<br>
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com/)&nbsp;
+<!-- [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)](https://jquery.com/)&nbsp; -->
 [![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=HTML5&logoColor=000)](https://www.w3.org/TR/html52/)&nbsp;
 [![CSS3](https://img.shields.io/badge/CSS3-563d7c?style=for-the-badge&logo=CSS3&logoColor=fff)](https://www.w3.org/Style/CSS/)&nbsp;
 [![Sass](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=Sass&logoColor=fff)](https://sass-lang.com/)&nbsp;
